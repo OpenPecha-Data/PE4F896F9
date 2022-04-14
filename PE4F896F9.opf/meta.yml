@@ -1,0 +1,79 @@
+id: PE4F896F9
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA21018
+  instance_id: http://purl.bdrc.io/resource/IE21019
+  collection_id: http://purl.bdrc.io/resource/PR0ET006
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསུང་འབུམ། སྣ་ཚོགས་རང་གྲོལ།
+  alt_title:
+    en-x-mixed:
+    - the complete works of rtse-le rgod-tshang-pa padma-legs-grub
+  author: http://purl.bdrc.io/resource/P1687
+  publisher: PalriParkhang
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    3a38e7d51a7040fea9f929114366e20c:
+      title: ༡༥༩༽༄།ཟས་ཆོས་རྟ་ཕག་ཡིད་བཞིན་ནོར་བུའི་དབང་བསྐུར་གྱི་ལས་རིམ་ལྟས་ཆོག་ཏུ་བཀོད་པ་བཞུགས་སོ།་།༡༦༠༽༄༅།རིགས་རྣམས་ཀུན་ཅི་སྐྱབས་བདག་གུ་རུ་
+      volume_number: 6
+      base_file: UT21019_006_0003.txt
+      reference: http://purl.bdrc.io/resource/VL8B88E643DDA171C4
+      image_group: null
+      quality: null
+    ded709836a694aee8359da9e74658bf1:
+      title: ༣༩༦༽༣༩༧༽༄༅།སློབ་དཔོན་རིན་པོ་ཆེ་པདྨའི་རྣམ་ཐར་ཆེན་མོ་ལས་བརྩམས་ཏེ་དྲི་བའི་ལན་ངེས་དོན་གསལ་བྱེད་ཅེས་བྱ་བ་བཞུགས་སོ།༣༩༨༽གང་ལ་བརྟེན་ན་སྲ
+      volume_number: 3
+      base_file: UT21019_003_0002.txt
+      reference: http://purl.bdrc.io/resource/VLF049460BDEC1F31C
+      image_group: null
+      quality: null
+    6d5d061803584b7581988545b1f5df44:
+      title: ༡༩༧༽༄༅།བདེར་གཤེགས་སྒྲུབ་པ་བཀའ་བརྒྱད་གསང་བ་ཡོངས་རྫོགས་ཀྱི་ལས་བྱང་གཞུང་སྲོང་གི་རིམ་པ་བཞུགས་སོ།༡༩༨༽ཤྲཱི་ཧེ་རུ་ཀ་གུ་རུ་ཨ་དྭ་ཡ་ན་མོ།བ
+      volume_number: 8
+      base_file: UT21019_008_0004.txt
+      reference: http://purl.bdrc.io/resource/VLAD3FE1B85BCBBFBE
+      image_group: null
+      quality: null
+    4ed32e533a2e4322a490a0c9a1075cac:
+      title: ༤༣༥༽༄༅།སྲོག་ཆགས་ཀྱི་བསྟན་བཅོས་ངོ་མཚར་སྒྱུ་མའི་རོལ་རྩེད་ཡིད་འོང་པདྨ་དཀར་པོ་ཞེས་བྱ་བ་བྱིས་པ་དགའ་བར་བྱེད་པ་བཞུགས་སོ།་།༤༣༦༽སྲོག་ཆགས
+      volume_number: 1
+      base_file: UT21019_001_0007.txt
+      reference: http://purl.bdrc.io/resource/VLFC92EA8944A05403
+      image_group: null
+      quality: null
+    f7b1b59006284369b43474d933a6e5b2:
+      title: ༤༦༡༽༄༅།སྤྲུལ་པའི་སྐྱེས་མཆོག་མི་ཕམ་མགོན་པོས་དྲི་བ་སྔ་ཕྱིར་མཛད་པ་རྣམས་ཕྱོགས་གཅིག་ཏུ་བཀོད་པ་བཞུགས་སོ།་།༤༦༢༽བསྟན་པའི་བསྟན་འཛིན་པདྨའ
+      volume_number: 4
+      base_file: UT21019_004_0005.txt
+      reference: http://purl.bdrc.io/resource/VL60B92A8E60067D98
+      image_group: null
+      quality: null
+    68a7fbc3294e4330a44a591894848226:
+      title: ༄༅།འདིར་རྗེ་སྣ་ཚོགས་རང་གྲོལ་གྱི་བཀའ་འབུམ་ཆོས་ཚན་གྱི་རྣམ་གྲངས་ཇི་ལྟར་བཞུགས་པའི་རིམ་པ་བཀོད་པར་གླེགས་བམ་ཁ༽པ་ལ།རང་གཞན་ལ་བསླབ་བྱ་གྲོས
+      volume_number: 2
+      base_file: UT21019_002_0001.txt
+      reference: http://purl.bdrc.io/resource/VLF143B8FF0C4CF1DF
+      image_group: null
+      quality: null
+    40d714a5398f47a4b013bccdba525505:
+      title: ༤༤༡༽༄༅།རྒྱལ་བསྟན་ཡུན་དུ་གནས་ཕྱིར་འཕགས་པའི་གནས་བརྟན་བཅུ་དྲུག་གི་ཆོ་ག་ཐུབ་བསྟན་ཉིན་བྱེད་བཞུགས་སོ།༤༤༢༽ན་མོ་བུདྡྷ་ཡ།རྒྱལ་བ་མ་ལུས་ཐུག
+      volume_number: 5
+      base_file: UT21019_005_0003.txt
+      reference: http://purl.bdrc.io/resource/VL962E6A779AED9F35
+      image_group: null
+      quality: null
+    acc0e5a1f9e8483faaf73d1e8f581c49:
+      title: ༢༧༧༽༄༅།གཏོར་མའི་ལྷན་ཐབས་ཀྱི་རིགས་ཉེ་བར་འཁོ་བ་འགའ་ཞིག་བཞུགས་སོ།༢༧༨༽དཔལ་ལྡན་བླ་མ་ཐུགས་རྗེའི་གཏེར་ལ་ཕྱག་འཚལ་ལོ།ཆུ་གཏོར་གྱི་ལས་རིམ་ག
+      volume_number: 7
+      base_file: UT21019_007_0011.txt
+      reference: http://purl.bdrc.io/resource/VLB6C09EEEED3C3DCF
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW21019
+  - http://purl.bdrc.io/resource/W21019
+created_at: '2021-12-29T11:52:46.696915'
+last_modified_at: '2021-12-29T11:52:46.696927'

@@ -1,0 +1,100 @@
+id: 555c257e99b948f99118edaee3c2b5dd
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  425ad9aa6be84c4780f3af31a6b098d5:
+    span:
+      start: 1283
+      end: 2790
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP4390C80FA5E009F6
+  bd1ab945c1034b14b0c1a6e5f5897d07:
+    span:
+      start: 8746
+      end: 10144
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP0BC611F08AA43817
+  1fdf5a65494c46c8af6d3ed0c42de688:
+    span:
+      start: 2792
+      end: 4293
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPE0C3EB3CD485A7E7
+  2bc46f9dbb4b4dafbfc896b5f9455dc6:
+    span:
+      start: 11574
+      end: 13144
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPBA40288BE00D88B0
+  085a5b7b605849c29309cf06e170e780:
+    span:
+      start: 0
+      end: 1281
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP769352F423621C8C
+  75c8c79b035346b086e07c94c57c3d07:
+    span:
+      start: 10146
+      end: 11572
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EPFF54CB0C390FCFC4
+  051c51c80dfc4292ad2ffc76ce5bf6c2:
+    span:
+      start: 15212
+      end: 16657
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP9BC3C96E8B34BAD6
+  821eba3bbb6646ab97dff05df7daec4d:
+    span:
+      start: 13146
+      end: 15210
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPB5B19D11F1B7B6C4
+  a6d21444f7944ab69e2e8f4f5e5c39e5:
+    span:
+      start: 7236
+      end: 8744
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP3FD1CBBD1E866A3B
+  d7fa21435e8a402d8cbb1f941a819e3c:
+    span:
+      start: 5744
+      end: 7234
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPD5754283B7DB06F5
+  d3714271f4ea482e867c74fd8d4826c4:
+    span:
+      start: 4295
+      end: 5742
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP1FBF147E69C2D8CD
+  d45f39fd468f4b74a689c2f17d2295e6:
+    span:
+      start: 16659
+      end: 17405
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EPA894168EF1032D73
